@@ -1,0 +1,1 @@
+The project aims to develop a robust and versatile solution that allows users to upload PDF bills in three distinct formats. The system's primary objective is to intelligently analyze and extract essential information from the provided PDF bills.
